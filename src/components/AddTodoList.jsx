@@ -20,7 +20,7 @@ export default function AddTodo ({onAdd}) {
                 placeholder='Add Todo'
                 value={text}
                 onChange={handleChange} />
-                <button>Add</button>
+                <button>++Add++</button>
         </form>
     )
 }
